@@ -1,0 +1,4 @@
+User ID        Total Abs.        Quizes        Assignments        Mid        Obtained Abs.        Grade
+22CS-1001        100        9        9        29        45
+22CS-1002        100        9        9        29        45
+22CS-1003        100        9        9        4        29

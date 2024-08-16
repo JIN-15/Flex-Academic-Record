@@ -1,0 +1,3 @@
+22CS-1001  Programming_Fundamnetals->(PF) Object_Oriented_Programming->(OOP) Data_Structure_And_Algorithm->(DSA)
+22CS-1002  Programming_Fundamnetals->(PF) Object_Oriented_Programming->(OOP) Data_Structure_And_Algorithm->(DSA)
+22CS-1003  Object_Oriented_Programming->(OOP) Data_Structure_And_Algorithm->(DSA) Data_Bases->(DB)

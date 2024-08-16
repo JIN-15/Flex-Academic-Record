@@ -1,0 +1,2 @@
+CS-9001 Monday 12:0-11:0 Tuesday 9:0-10:0 Tuesday 1:00-3:0 Friday 3:0-4:0
+CS-9002 Monday 12:0-1:0 TRuesday 11:0-1:0 Wednesday 1:0-2:0 Thursday 3:0-4:0
